@@ -6,8 +6,7 @@ In this project, you will build a complete Data Lakehouse from scratch using Dat
 cars-lakehouse-project/
 │
 ├── notebooks/
-|
-├── setup/
+|   ├── setup/
 │   │   ├── init_catalog_data.ipynb
 |   |   
 │   ├── bronze/
